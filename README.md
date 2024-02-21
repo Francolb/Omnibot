@@ -12,6 +12,6 @@ Learning how to design the controller for an Omni-directional Robot and implemen
  3. Build the prototype: assembly and test the prototype
  4. Test and verification: Apply the controller on the prototype and calibrate its configuration (write a test report)
 Documentation: Write a report and post technical information on the project Githubs
-▶️ Reference
+##▶️ Reference
 1: Installation Matlab;
 Download link (only available on NTUST campus): https://www.cc.ntust.edu.tw/p/412-1050-8352.php
