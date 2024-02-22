@@ -11,7 +11,7 @@ Learning how to design the controller for an omnidirectional robot and implement
  4. Test and verification: Apply the controller on the prototype and calibrate its configuration (write a test report)
 Documentation: Write a report and post technical information on the project's GitHub
 ## Flow Chart
-![image](./ref/Flowchart.png)
+![image](ref/Omnibo.png)
 
 
 ## Reference
