@@ -2,7 +2,7 @@
 Design a controller for a four-wheel Omni-directional robot and verify it on a prototype. 
 
 ## Objective: 
-Learning how to design the controller for an omnidirectional robot and implement it on a prototype regarding the simulation model. 
+Learning how to design a controller for the omnidirectional robot and implement it on a prototype regarding the simulation model. 
 
 ## Tasks description:
  1. Robot Controller Design: Use Matlab Robot Simulation (Mobile Robot Modeling)
