@@ -1,15 +1,16 @@
 # Omnibot
-Design a controller for a four-wheel Omni-directional robot and verify it on a prototype. 
-
+## Project
+Omni-directional Robot controller design and verification on self-build prototype
 ## Objective: 
-Learning how to design a controller for the omnidirectional robot and implement it on a prototype regarding the simulation model. 
-
+Learn how to design the controller for an Omni-directional Robot and implement it on a prototype using the simulation model. 
 ## Tasks description:
- 1. Robot Controller Design: Use Matlab Robot Simulation (Mobile Robot Modeling)
- 2. Omni-directional Robot Design: create 3D models with the bill of material
- 3. Build the prototype: assembly and test the prototype
- 4. Test and verification: Apply the controller on the prototype and calibrate its configuration (write a test report)
-Documentation: Write a report and post technical information on the project's GitHub
+1. Robot Controller Design: Use ROS2 and MATLAB for Modelling, Simulation and control of the robot (Mobile Robot Modeling)
+2. Omni-directional Robot Design: Create 3D models (tentative) with bill of material
+3. Build the prototype: Assemble and test the prototype
+4. Test and verification: Apply the controller on the prototype and calibrate its configuration (write a test report)
+5. Documentation: Write a report and post technical information on Github
+![image](https://github.com/iiotntust/Omnibot/assets/56021651/d2b42ccd-aa78-4bf2-927a-af564667a19f)
+
 ## Flow Chart
 ![image](ref/Flowchart.png)
 
