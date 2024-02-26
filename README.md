@@ -1,4 +1,4 @@
-![image](https://github.com/iiotntust/Omnibot/assets/56021651/6d384b3d-c3c8-4ae0-83a6-98ecee97a60a)# Omnibot
+# Omnibot
 ## Project
 Omni-directional Robot controller design and verification on self-build prototype
 ## Objective: 
