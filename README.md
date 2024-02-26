@@ -9,7 +9,7 @@ Learn how to design the controller for an Omni-directional Robot and implement i
 3. Build the prototype: Assemble and test the prototype
 4. Test and verification: Apply the controller on the prototype and calibrate its configuration (write a test report)
 5. Documentation: Write a report and post technical information on Github
-![image](https://github.com/iiotntust/Omnibot/assets/56021651/d2b42ccd-aa78-4bf2-927a-af564667a19f)
+### Robot Controller Design
 
 ## Flow Chart
 ![image](ref/Flowchart.png)
