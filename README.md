@@ -37,7 +37,8 @@ Learn how to design the controller for an Omni-directional Robot and implement i
 - Calibration
 - Verification
 
-  ![image](https://github.com/iiotntust/Omnibot/assets/56021651/f6e5634a-f93b-465e-b79d-b547930236a4)
+
+![image](https://github.com/iiotntust/Omnibot/assets/56021651/499e18c3-785c-474d-bdde-22ca7f4a7866)
 
 ## Notes
 - The areas marked as “tentative” are not guaranteed to be taught. 
